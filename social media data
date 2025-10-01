@@ -1,0 +1,51 @@
+post_id,platform,timestamp,content_type,caption,hashtags,media_length_seconds,impressions,likes,comments,shares,saves,views,follower_count
+p1,tiktok,2025-06-16T16:00:00,image,Throwback shoot,#creator,0,5651,350,24,24,21,0,12000
+p2,tiktok,2025-09-08T01:00:00,carousel,5 caption formulas,#edit,0,5975,524,64,22,26,0,12000
+p3,tiktok,2025-06-04T16:00:00,short_video,Transition trend,#photography,46,34764,2432,326,61,144,34764,12000
+p4,instagram,2025-06-01T21:00:00,image,Content planning hack,#creator,0,25157,607,33,44,28,0,12000
+p5,tiktok,2025-09-08T11:00:00,carousel,Behind the scenes,#edit,0,16777,1536,171,88,41,0,12000
+p6,instagram,2025-07-29T03:00:00,short_video,Studio setup tips,#vlog,16,5657,374,49,24,22,5657,12000
+p7,instagram,2025-08-19T03:00:00,carousel,Behind the scenes,#photography,0,3323,339,21,30,10,0,12000
+p8,tiktok,2025-06-08T08:00:00,carousel,Content planning hack,#vlog,0,10635,593,50,52,22,0,12000
+p9,tiktok,2025-09-05T10:00:00,short_video,Daily vlog,#creator,57,8527,540,32,41,15,8527,12000
+p10,instagram,2025-08-11T18:00:00,short_video,Throwback shoot,#filmtok,34,8730,1006,139,60,48,8730,12000
+p11,tiktok,2025-09-10T07:00:00,image,Lighting 101,#vlog,0,6493,775,102,25,32,0,12000
+p12,tiktok,2025-07-08T02:00:00,image,Daily vlog,#vlog,0,24048,1381,144,94,29,0,12000
+p13,instagram,2025-06-11T00:00:00,short_video,Behind the scenes,#edit,21,35070,1191,91,77,94,35070,12000
+p14,tiktok,2025-08-04T23:00:00,carousel,Quick editing trick,#trending,0,26305,1389,100,107,95,0,12000
+p15,instagram,2025-09-28T18:00:00,short_video,Quick editing trick,#gear,50,19268,1442,194,49,42,19268,12000
+p16,tiktok,2025-08-10T19:00:00,image,Lighting 101,#gear,0,15638,1394,146,139,39,0,12000
+p17,instagram,2025-09-21T20:00:00,image,Studio setup tips,#contenttips,0,20873,1730,103,88,126,0,12000
+p18,tiktok,2025-08-12T16:00:00,carousel,Behind the scenes,#creator,0,5633,611,67,14,26,0,12000
+p19,tiktok,2025-06-05T14:00:00,image,Behind the scenes,#creator,0,24798,2090,128,57,106,0,12000
+p20,instagram,2025-07-23T16:00:00,carousel,Color grading,#filmmaking,0,22402,1700,167,155,121,0,12000
+p21,tiktok,2025-08-16T11:00:00,image,Content planning hack,#edit,0,17726,1536,138,116,40,0,12000
+p22,instagram,2025-08-13T00:00:00,carousel,Color grading,#photography,0,37308,3024,153,243,65,0,12000
+p23,tiktok,2025-06-22T06:00:00,carousel,Studio setup tips,#contenttips,0,7942,904,97,52,20,0,12000
+p24,instagram,2025-06-02T04:00:00,short_video,Studio setup tips,#photography,36,8361,701,103,48,27,8361,12000
+p25,tiktok,2025-09-22T14:00:00,image,Daily vlog,#nostalgia,0,27381,3081,424,141,182,0,12000
+p26,tiktok,2025-06-10T04:00:00,carousel,Quick editing trick,#filmmaking,0,29495,3367,197,317,258,0,12000
+p27,instagram,2025-06-05T14:00:00,image,Transition trend,#vlog,0,25564,895,63,76,23,0,12000
+p28,instagram,2025-07-30T03:00:00,short_video,Lighting 101,#gear,47,29663,3081,421,120,227,29663,12000
+p29,tiktok,2025-09-02T21:00:00,image,Quick editing trick,#creator,0,18931,1221,96,47,47,0,12000
+p30,instagram,2025-06-28T08:00:00,carousel,Transition trend,#filmmaking,0,21756,781,71,18,36,0,12000
+p31,instagram,2025-09-13T10:00:00,image,Lighting 101,#edit,0,14084,1203,116,97,82,0,12000
+p32,instagram,2025-09-25T03:00:00,carousel,Throwback shoot,#edit,0,9820,1084,65,50,45,0,12000
+p33,tiktok,2025-08-26T18:00:00,carousel,Quick editing trick,#trending,0,37254,1822,101,119,20,0,12000
+p34,tiktok,2025-08-27T13:00:00,carousel,Content planning hack,#trending,0,3224,262,24,24,7,0,12000
+p35,tiktok,2025-07-01T07:00:00,image,Quick editing trick,#edit,0,19581,668,49,17,41,0,12000
+p36,tiktok,2025-07-03T06:00:00,image,Throwback shoot,#photography,0,10559,997,116,25,70,0,12000
+p37,tiktok,2025-08-07T07:00:00,image,Transition trend,#trending,0,15821,1596,132,140,125,0,12000
+p38,tiktok,2025-08-05T01:00:00,short_video,Daily vlog,#nostalgia,33,7054,684,85,47,53,7054,12000
+p39,instagram,2025-06-23T01:00:00,carousel,Transition trend,#creator,0,34971,1534,199,153,30,0,12000
+p40,instagram,2025-08-11T01:00:00,image,Content planning hack,#gear,0,23673,2465,233,178,70,0,12000
+p41,tiktok,2025-08-15T23:00:00,carousel,Transition trend,#photography,0,24344,1363,161,28,35,0,12000
+p42,tiktok,2025-09-06T12:00:00,short_video,Quick editing trick,#contenttips,45,35774,2014,280,140,59,35774,12000
+p43,tiktok,2025-08-11T18:00:00,image,Daily vlog,#gear,0,25527,1007,67,85,77,0,12000
+p44,tiktok,2025-08-26T13:00:00,image,Quick editing trick,#edit,0,34092,1060,158,27,53,0,12000
+p45,tiktok,2025-08-04T16:00:00,carousel,Color grading,#nostalgia,0,29999,2275,114,163,143,0,12000
+p46,tiktok,2025-08-19T21:00:00,carousel,5 caption formulas,#photography,0,7320,337,49,33,15,0,12000
+p47,instagram,2025-08-11T21:00:00,image,Transition trend,#contenttips,0,25832,1881,139,83,27,0,12000
+p48,tiktok,2025-08-03T01:00:00,carousel,Color grading,#photography,0,38099,4153,590,121,124,0,12000
+p49,instagram,2025-07-07T15:00:00,image,5 caption formulas,#filmmaking,0,18268,742,103,66,14,0,12000
+p50,tiktok,2025-07-14T01:00:00,short_video,Quick editing trick,#gear,38,30749,1130,64,60,43,30749,12000
